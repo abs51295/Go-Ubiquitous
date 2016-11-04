@@ -1,8 +1,9 @@
 package com.example.android.sunshine.app;
 
 /**
- * Created by Aagam Shah on 10/31/2016.
+ * Created by Aagam Shah on 11/4/2016.
  */
+
 public class Utility {
     /**
      * Helper method to provide the icon resource id according to the weather condition id returned
@@ -39,5 +40,4 @@ public class Utility {
         }
         return -1;
     }
-
 }
