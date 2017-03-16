@@ -11,6 +11,10 @@ Aim : To develop watchface for sunshine app which shows temprature on android we
 * Intreactive Mode -  active
 * Ambient Mode - battery saving
 
+## Screenshots
+
+[![Yo](https://cloud.githubusercontent.com/assets/13438222/24012276/6bfdd624-0aa3-11e7-827d-9757d8c46f9f.png)]()
+[![Yo](https://cloud.githubusercontent.com/assets/13438222/24012281/714523c6-0aa3-11e7-8215-7997f4041c17.png)]()
 
 Build : To built this project you need **OpenWeather API , add in gradle properties file** use Android studio import also update latest sdk and emulator images for wearable support.
 
